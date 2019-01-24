@@ -200,11 +200,3 @@ font-weight: bold;
     background-color: #fff;
     border-color: #ccc;
   }
-
-  .botonimagen{
-    background-image:url(../images/paypal.png);
-    background-repeat:no-repeat;
-    /* height:100px;
-    width:100px; */
-    background-position:center;
-  }

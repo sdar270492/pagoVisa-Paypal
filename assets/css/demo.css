@@ -10,10 +10,10 @@ body{
     background-color: #eee;
 }
 
-.container-fluid{
+/* .container-fluid{
     padding:0;
     margin:0;
-}
+} */
 
 header{
     box-sizing: border-box;
